@@ -86,3 +86,5 @@ $RECYCLE.BIN/
 *.lnk
 
 .idea
+authFile.json
+package-lock.json
